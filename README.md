@@ -1,1 +1,0 @@
-# chimborazow.github.io
