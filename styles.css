@@ -5,6 +5,7 @@ body	{
         padding: 2%;
 	margin: auto;
 	min-width: 960px;
+	font-family: 'Exo 2', sans-serif;
 	
 	background-image:url(images/personlost.jpg); background-size: 100%; background-repeat: no-repeat;
             
